@@ -1,6 +1,10 @@
 # Amazfit Helio Strap vs Whoop 5.0
 This repository contains the methodology and comparison logic used to compare data from the Amazfit Helio Strap with that from Whoop using exports from the two respective platforms, Zepp and Whoop, remapping, aggregating, and enriching with the series obtained from Apple Health.
 
+Check the full comparison in this video (ITA w/ ENG subs) 👇
+
+<a href="https://youtu.be/spY5iUtKxQw"><img width=600 src='https://i.ytimg.com/vi/spY5iUtKxQw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLATDvosSWE9vUVijcqunWHhpvtj1Q'></a>
+
 Below is the complete list and functional explanation of the variables considered for comparison:
 
  
@@ -75,4 +79,9 @@ Because it **covers the three pillars of performance and recovery**:
 2. **Rest and regeneration** → Sleep
 3. **Training load** → HR during workout
 4. **Overall health** → Breathing rate
-        
+
+
+### 🤙 Do you like this repo? ❤️ Support this project with a donation 👇
+<a class="active:animate-click" href="https://www.paypal.com/donate/?business=BRTQR4UWW98DJ&amp;no_recurring=0&amp;currency_code=EUR"><img alt="paypal donate" style='overflow: hidden; border-radius: 0.1rem;width: auto;
+height: 3.5rem;' class="pointer-events-none w-[190px] min-w-full object-contain" src="https://settepercento.com/paypal_donate.png"></a> <a href="https://www.buymeacoffee.com/danilofiumi" target="_blank"><img alt="Buy Me A Coffee" class="clickable h-full w-full overflow-hidden rounded-lg" style='overflow: hidden; border-radius: 0.1rem;width: auto;
+height: 3.5rem;' src="https://settepercento.com/c_buymeacooffe.png"></a>
